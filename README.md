@@ -1,35 +1,13 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+# Adriana Folcher
 
-Bienvenidxs a
-# Programación con objetos I
+Me llamo Adriana y soy estudiante de la Tecnicatura Universotaria en Programación en la UNAHUR. Me gusta todo aquello que esté relacionado con sistemas y tecnología. Además de estudiar, trabajo dando clases de inglés en mi casa.
+Mi sueño es poder trabajar en alguna empresa como programadora, tener mi propia casa y conocer Europa, principalmente Inglaterra, Italia y Escocia
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+# Hobbies
+En mi tiempo libre, me gusta leer, pintar y mirar series/peliculas. Natación es mi deporte favorito y lo practico siempre y cuando tenga algún tiempo libre entre el trabajo y los estudios.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+# Mascotas
+Tengo un perro que se llama Golfo y un conejo llamado Salem. Ellos dos son mis dos hijos-mascotas y mis mejores amigos. Aunque el conejo no sea un perro, se comporta como uno! 
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+![Imagen de WhatsApp 2024-08-19 a las 21 10 40_6b711acb](https://github.com/user-attachments/assets/e39ae80e-59b3-45e8-ace9-8d4c541b129c)
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
